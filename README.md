@@ -1,9 +1,7 @@
 ### Hi there 👋
 I'm Ishan!
 
-- I can program in Python and Java
- 
-- 🌱 I’m currently learning C++ 
+- I can program in Python, Java, and C++ 
 <!--
 **Ishan1522/Ishan1522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
