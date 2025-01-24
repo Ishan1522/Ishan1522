@@ -2,6 +2,8 @@
 I'm Ishan!
 
 - I can program in Python, Java, and C++
+- I'm interested in studying Electrical Engineering
+- Currently, I'm interested in Robotics
 
 
 <h3 align="left">Stats</h3>
