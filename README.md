@@ -3,7 +3,7 @@ I'm Ishan!
 
 - I can program in Python, Java, and C++
 - I'm interested in studying Electrical Engineering
-- Currently, I'm interested in Robotics
+- Currently, I enjoy programming and making robots
 
 
 <h3 align="left">Stats</h3>
