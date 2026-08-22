@@ -1,32 +1,29 @@
-# hey, I'm Ishan 👋
+# Ishan
 
-**EE @ Michigan State** · building at the intersection of hardware, software, and weird research ideas
+EE @ Michigan State. I work on hardware, software, and research projects — signal processing, robotics simulation, and computational neuroscience.
 
-eh idk i do a lot of stuff
-
-i vibe coded this readme
-
----
-
-## 🔨 what I'm building
+## What I'm building
 
 | Project | What it is |
 |--------|-----------|
-|bru | none ur beezwax|
+| [rosfilter](https://github.com/Ishan1522/filters) | ROS 2 filter workbench for robot signal data (Rust) |
+| [SAR sim2real](https://github.com/msu-sar-robotics/sar-sim2real) | Sim-to-real pipeline; Simulation Lead at Spartan Autonomous Robotics |
+| [Wensura](https://wensura.com) | B2B SaaS for battery materials R&D |
+| [Violin Practice Model](https://github.com/Ishan1522/Violin-Practice-Model) | Computational model of violin practice as dual prediction-error minimization |
+| [Portfolio](https://ishan1522.github.io) | Personal site, Next.js + Three.js |
 
----
+## What I'm thinking about
 
-## 🧠 what I'm thinking about
+- Computational neuroscience
+- Robotics and sim-to-real
+- DSP and filter design
+- Game dev
 
-- **Computational neuroscience**
-- **Game dev**
-
----
-
-## 🛠️ stack
+## Stack
 
 **Languages**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -48,13 +45,8 @@ i vibe coded this readme
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
- 
-## 📊 stats
- 
+## Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan1522&theme=dark&hide_border=true" alt="streak stats" />
 </p>
- 
-
----
